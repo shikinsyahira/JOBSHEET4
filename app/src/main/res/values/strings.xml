@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipes_fragment">Recipes</string>
+    <string name="favorite_recipes_fragment">Favorite</string>
+    <string name="user_profile_fragment">Profile</string>
+    <string name="favoriteRecipesFragment">Favorite</string>
+    <string name="userProfileFragment">Profile</string>
+</resources>
